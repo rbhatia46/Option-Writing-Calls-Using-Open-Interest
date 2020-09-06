@@ -9,3 +9,6 @@ A high open interest at a given strike price gives a good enough about about the
 
 In this notebook, we explore how we can scrape the option chain for a given index/stock from the NSE Website and then use the open interest to decide strike prices.
 
+Example Output - 
+
+![](https://i.ibb.co/vz1YGT0/Screenshot-2020-09-06-at-12-41-52-PM.png)
