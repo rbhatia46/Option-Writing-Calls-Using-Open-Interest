@@ -1,5 +1,5 @@
 # Option-Writing-Calls-Using-Open-Interest
-Deciding the strike pries for writing options, based on the Open Interest from the option chain data from NSE(National Stock Exchange)
+Deciding the strike price for writing options, based on the Open Interest from the option chain data from NSE(National Stock Exchange)
 
 **Disclaimer - This is purely for educational and research purposes, I am in no way responsible for any monetary loss/gain you make using this, I highly encourage you to view this as a learning resource and not as an investment/trading advice.**
 
